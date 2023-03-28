@@ -34,50 +34,39 @@ List the ready features here:
 
 ## Screenshots
 ![Capture](https://user-images.githubusercontent.com/50156212/228154928-14616770-fa08-4a73-b880-b7758c2a1229.PNG)
+![Capture2](https://user-images.githubusercontent.com/50156212/228155019-39dae5ae-c4c2-4682-9ba4-81cb9a7b770a.PNG)
+![Capture3](https://user-images.githubusercontent.com/50156212/228155035-9f577074-40ec-4fb6-93e3-8c9e86ca71db.PNG)
+
+
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Unzip each zip file, go to root directory first of the REST API and then the react app. Run npm install and then npm start to start each app and then test them.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+Select the appropriate icons to make changes to the exercise list.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- The UI for the app is very basic. Would eventually like to update the HTMl and CSS of the app to make it nicer to look at.
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Update the placement and color of the app to make it more presentable.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- End of Quarter project from CS290 at OSU.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@mvuo](https://www.linkedin.com/in/vuong-michael/) - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
