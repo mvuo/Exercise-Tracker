@@ -1,4 +1,4 @@
-# Project Name
+# Exercise-Tracker
 > Single Page Application that tracks exercises completed by the user. The user will be able to see a list of the current exercises on the home page. The user may select the necessary buttons to add, remove, and edit an exercise. 
 
 ## Table of Contents
