@@ -33,8 +33,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Capture](https://user-images.githubusercontent.com/50156212/228154928-14616770-fa08-4a73-b880-b7758c2a1229.PNG)
 
 
 ## Setup
