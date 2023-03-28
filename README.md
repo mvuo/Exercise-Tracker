@@ -1,6 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Single Page Application that tracks exercises completed by the user. The user will be able to see a list of the current exercises on the home page. The user may select the necessary buttons to add, remove, and edit an exercise. 
 
 ## Table of Contents
 * [General Info](#general-information)
