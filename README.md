@@ -16,24 +16,20 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Purpose of this assignment is to gain experience developing a full-stack MERN app. 
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- React: front-end UI
+- REST API with Node and Express: back-end web service
+- MongoDB: data persistence
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Add exercises to the list on homepage. Values must be valid to be correctly added, and a message will pop up if it was successful or unsucessful.
+- Delete exercises from the list on homepage. Value will be removed from MongoDB.
+- Edit exercises from the list on homepage. Specific values of the exercises may be changed. Again, value muyst be valid to be correctly added and a message will pop up.
 
 
 ## Screenshots
